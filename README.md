@@ -12,7 +12,7 @@ int main()
 	scanf("%s",pass);
 
 
-	if(pass[i]!=13&&pass[i]!=8)
+if(pass[i]!=13&&pass[i]!=8)
 {
 	printf("");
 	pass[i]=getch();
